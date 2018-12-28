@@ -5,7 +5,7 @@ spring:
 ---
 #开发环境配置
 spring:
-  profiles: dev
+  profiles: master
   application:
     name: microservicecloud-config-atguigu-dev
 
